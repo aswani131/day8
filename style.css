@@ -1,0 +1,18 @@
+.box{
+    width: 300px;
+    height: 800px;
+    background-color:pink;
+}
+
+.img{
+    width: 50px;
+    height: 10px;
+    padding-top: 0 auto;
+    
+}
+.p1{
+    font-size: 20px;
+}
+h1{
+    font-size: large;
+}
